@@ -1,6 +1,6 @@
 // const socket = io('https://uatcrmhub.scoreconnect.com/');
 // const socket = io('https://socket-hub.onrender.com');
-const socket = io('http://192.168.0.34:7000');
+const socket = io('https://f93f-103-251-16-214.ngrok-free.app');
 
 let currentuserName = 'Hello';
 
