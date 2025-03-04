@@ -1,6 +1,6 @@
 // const socket = io('https://uatcrmhub.scoreconnect.com/');
 // const socket = io('https://socket-hub.onrender.com');
-const socket = io('https://screensharing-socket-hub.vercel.app/');
+const socket = io('https://socket-hub.onrender.com/');
 
 let currentuserName = 'Hello';
 
